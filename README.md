@@ -1,11 +1,15 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
-- 👋 Hi, I’m @GoAlers.
-- 👀 I’m interested in Soccer/Movie.
-- 🌱 I’m currently learning AI/Bigdata/OCR.
-- 📫 How to reach me: 
-  - 📝 Wechat : G1014900571  
-  - 📩 email : 976687036@qq.com
+👋 Hi, I’m @GoAlers.
+
+👀 I’m interested in Soccer/Movie.
+
+🌱 I’m currently learning AI/Bigdata/OCR.
+
+📫 How to reach me: 
+
+ - 📝 Wechat : G1014900571  
+ - 📩 email : 976687036@qq.com
 
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎访问%2C%20我的主页;GoAI祝您每天生活愉快!&center=true&size=27"> </a> </h1>

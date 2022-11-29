@@ -3,11 +3,12 @@
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎访问%2C%20我的主页;GoAI祝您每天生活愉快!&center=true&size=27"> </a> </h1>
 
-👋 Hi, I’m @GoAlers.
+    
+👋 Hi, I’m @GoAlers.大家好，我是GoAI，目前大数据专业硕士在读，百度飞浆校领航团团长，CSDN人工智能领域优质博主、阿里云开发者社区专家博主，博客粉丝近3W，致力于大数据与人工智能领域开源建设。曾经的我经历过很多选择，到今天格外珍惜眼前的生活，我始终相信所有失去的都会以另一种方式归来！
 
-👀 I’m interested in Soccer/Movie.
+👀 I’m interested in Soccer/Movie. 平时的我喜欢足球(各类球都会点儿~)、看剧（美剧、电影）、听歌（什么类型都听一点儿~），我的偶像是梅西，喜欢足球的小伙伴在哪里！
 
-🌱 I’m currently learning AI/Bigdata/OCR.
+🌱 I’m currently learning AI/Bigdata/OCR. 目前正在努力学习大数据和人工智能方向，欢迎大家访问我的博客，大家互相交流学习！
 
 📫 How to reach me: 
 

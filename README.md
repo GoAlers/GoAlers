@@ -61,6 +61,8 @@ You can click the Preview link to take a look at your changes.
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=GoAlers&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
 
+![Metrics](https://metrics.lecoq.io/GoAIers?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FHong_Kong)
+
 
 ![Metrics](https://metrics.lecoq.io/GoAlers?template=terminal&isocalendar=1&projects=1&people=1&introduction=1&nightscout=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&introduction=false&introduction.title=true&projects=false&projects.limit=2&projects.descriptions=false&nightscout=false&nightscout.url=https%3A%2F%2Fexample.herokuapp.com&nightscout.datapoints=12&nightscout.lowalert=80&nightscout.highalert=180&nightscout.urgentlowalert=50&nightscout.urgenthighalert=250&config.timezone=Asia%2FHong_Kong)
 

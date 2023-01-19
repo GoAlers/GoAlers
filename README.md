@@ -1,13 +1,15 @@
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎访问%2C%20我的主页;GoAI祝您每天生活愉快!&center=true&size=27"> </a>
+</h1>
+
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎访问%2C%20我的主页;GoAI祝您每天生活愉快!&center=true&size=27"> </a> </h1>
-
-#  🙋 Hello
+# 🙋 Hello
 
 1️⃣ **I’m @GoAlers.** ✨
 
 👨‍🎓大家好，我是GoAI，目前大数据专业硕士在读，百度飞桨校领航团团长，CSDN人工智能领域优质博主、阿里云开发者社区专家博主，博客粉丝3W+，致力于大数据与人工智能领域开源建设,有开源合作意向的小伙伴可以一起互相交流。
+
 
 曾经的我经历过很多选择，今天格外珍惜眼前生活，我始终相信所有失去的都会以另一种方式归来！
 
@@ -51,18 +53,22 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
+
+
+<!-- Wakatime Graph-->
+<table>
+  <tr>
+    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500"/></td>
+    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500"/></td>
+  </tr>
+</table>
+
 <!-- GitHub 数据统计 -->
 <div align="center">
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GoAlers&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GoAlers&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div> 
 
-<!-- GitHub Activity Graph -->
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GoAlers&theme=xcode&bg_color=FF000000&hide_border=true" /></td>
-  </tr>
-</table>
 
 
 <!--  注释开始

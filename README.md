@@ -28,9 +28,10 @@
 
 
 <div align="center">
-  <a href="https://goalers.github.io/#/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
+  <a href="https://goalers.github.io/#/"><img src="https://img.shields.io/badge/GoAI-个人博客-purple"></a>&emsp;
   <a href="https://blog.csdn.net/qq_36816848"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-  <a href="https://www.zhihu.com/people/GoAI/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;  
+  <a href="https://www.cbedai.net/goai"><img src="https://img.shields.io/badge/AI-学习网站-green" /></a>&emsp;
+  <a href="https://www.zhihu.com/people/GoAI/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-yellow"></a>&emsp;  
  <!--- <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;  -->
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=GoAlers" alt="访客统计" /></div>
@@ -55,7 +56,12 @@ You can click the Preview link to take a look at your changes.
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GoAlers&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div> 
 
-
+<!-- GitHub Activity Graph -->
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GoAlers&theme=xcode&bg_color=FF000000&hide_border=true" /></td>
+  </tr>
+</table>
 
 
 <!--  注释开始

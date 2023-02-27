@@ -54,8 +54,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">
-  <img height="235px" src="https://stats.justsong.cn/api/csdn?id=qq_36816848" />
-  <img height="235px" src="https://stats.justsong.cn/api/zhihu?username=GoAI" />
+  <img height="230px" src="https://stats.justsong.cn/api/csdn?id=qq_36816848" />
+  <img height="230px" src="https://stats.justsong.cn/api/zhihu?username=GoAI" />
 </div>
 
 

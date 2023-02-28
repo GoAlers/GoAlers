@@ -43,7 +43,7 @@
 
 <div align="center"><img  src="https://img-blog.csdnimg.cn/65356b877b77487dafe8cceea784e6c4.jpeg" /></div>
 
-
+<div align="center"><img  src="./公众号.jpg" /></div>
 
 <!---
 GoAlers/GoAlers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

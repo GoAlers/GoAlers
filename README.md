@@ -41,7 +41,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=GoAlers" alt="访客统计" /></div>
 </br>
 
-<div align="center"><img  src="./gzh(1).jpg" /></div>
+<div align="center"><img  src="./gzh(1).png" /></div>
 
 <!---
 GoAlers/GoAlers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

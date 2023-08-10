@@ -33,8 +33,9 @@
 <div align="center">
   <a href="https://goalers.github.io/#/"><img src="https://img.shields.io/badge/GoAI-个人博客-purple"></a>&emsp;
   <a href="https://blog.csdn.net/qq_36816848"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
+  <a href="https://juejin.cn/user/4187396884401127"><img src="https://img.shields.io/badge/稀土-掘金-00008b"></a>&emsp;  
   <a href="https://www.cbedai.net/goai"><img src="https://img.shields.io/badge/AI-学习网站-green" /></a>&emsp;
-  <a href="https://aistudio.baidu.com/aistudio/personalcenter/thirdview/703719"><img src="https://img.shields.io/badge/AI-百度飞桨-blue" /></a>&emsp;
+  <a href="https://aistudio.baidu.com/aistudio/personalcenter/thirdview/703719"><img src="https://img.shields.io/badge/AIStudio-百度飞桨-blue" /></a>&emsp;
   <a href="https://www.zhihu.com/people/GoAI/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-yellow"></a>&emsp;  
  <!--- <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;  -->
 <!-- 访客数统计徽标 -->
